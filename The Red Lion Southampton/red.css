@@ -1,0 +1,30 @@
+*{
+    padding:0;
+}
+h1{
+    background-color:black;
+    height:50px;
+    color:red;
+    text-align:center;
+    text-decoration:underline;
+    font-family:arial;
+    margin-top:0px;
+    background-image: url("redlion.jpg");
+    background-size:130px;
+
+
+}
+
+.des{
+    margin:450px;
+    text-align:center;
+    font-weight:bold;
+    background-color:blue;
+    display:inline;
+    color:red;
+}
+ 
+.navbar{
+    margin-right:180px;
+    height:0px;
+}
